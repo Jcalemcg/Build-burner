@@ -1,0 +1,6 @@
+argparse
+dnspython
+requests
+flake8
+mypy
+black
